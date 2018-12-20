@@ -14,6 +14,6 @@ double RandomGen(int start, int end) {
 
 #else
 
-double RandomGen(int start, int end) {}
+double RandomGen(int start, int end) { return 0.0; }
 
 #endif // WIN32 || WIN64
