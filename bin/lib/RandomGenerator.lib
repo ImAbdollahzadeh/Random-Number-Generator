@@ -1,0 +1,10 @@
+!<arch>
+/               1545315282              0       164       `
+     "  l  ª    __IMPORT_DESCRIPTOR_RandomGenerator __NULL_IMPORT_DESCRIPTOR RandomGenerator_NULL_THUNK_DATA ?RandomGen@@YANHH@Z __imp_?RandomGen@@YANHH@Z /               1545315282              0       174       `
+   "  l  ª            ?RandomGen@@YANHH@Z __IMPORT_DESCRIPTOR_RandomGenerator __NULL_IMPORT_DESCRIPTOR __imp_?RandomGen@@YANHH@Z RandomGenerator_NULL_THUNK_DATA //              1545315282              0       20        `
+RandomGenerator.dll /0              1545315282              0       525       `
+L Ò£\        .debug$S        I   Œ               @ B.idata$2           Õ   é          @ 0À.idata$6             é           @  À    	     RandomGenerator.dll'              —^Microsoft (R) LINK                                          RandomGenerator.dll @comp.id—^ÿÿ                  .idata$2@  À   h .idata$6        .idata$4@  À    h .idata$5@  À    h     (                A            b   __IMPORT_DESCRIPTOR_RandomGenerator __NULL_IMPORT_DESCRIPTOR RandomGenerator_NULL_THUNK_DATA 
+/0              1545315282              0       258       `
+L Ò£\Á         .debug$S        I   d               @ B.idata$3           ­               @ 0À    	     RandomGenerator.dll'              —^Microsoft (R) LINK                    @comp.id—^ÿÿ                     __NULL_IMPORT_DESCRIPTOR /0              1545315282              0       294       `
+L Ò£\Ý         .debug$S        I   Œ               @ B.idata$5           Õ               @ 0À.idata$4           Ù               @ 0À    	     RandomGenerator.dll'              —^Microsoft (R) LINK        @comp.id—^ÿÿ                  %   RandomGenerator_NULL_THUNK_DATA /0              1545315282              0       60        `
+  ÿÿ  LÒ£\(      ?RandomGen@@YANHH@Z RandomGenerator.dll 
